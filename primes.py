@@ -1,7 +1,9 @@
 #import numpy as np
 from math import sqrt, ceil
 
-def algo():
+
+
+def foo():
     pass
 
 def rwh_primes(n):
