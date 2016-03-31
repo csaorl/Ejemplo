@@ -1,5 +1,7 @@
-#import numpy as np
 from math import sqrt, ceil
+
+def foo(n):
+    pass
 
 def rwh_primes(n):
     # http://stackoverflow.com/questions/2068372/fastest-way-to-list-all-primes-below-n-in-python/3035188#3035188
